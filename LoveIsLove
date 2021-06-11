@@ -1,0 +1,13 @@
+class Programming_In
+//Classname
+ {
+public static void main (String[] args)
+//Main Method
+	       {
+System.out.println("Love is Love");
+//print statement in java
+
+	        }
+ }
+
+Output: Love is Love
